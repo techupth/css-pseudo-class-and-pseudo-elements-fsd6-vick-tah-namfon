@@ -1,9 +1,9 @@
 input:disabled {
-  color: lightgrey;
+  background-color: lightgrey;
 }
 
 input:hover {
-  color: khaki;
+  border-color: khaki;
 }
 
 button:hover {
